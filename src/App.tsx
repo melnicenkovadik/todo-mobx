@@ -70,7 +70,7 @@ function TodoContainer() {
       <div style={{
         maxWidth: "320px",
       }}>
-        есть бага, нужно выделить несколько и нажать ACTIVATE/AS DONE и оно у меня не обновляет, не пойму почему так буду рад если расскажете в чем ошибка <a href='https://t.me/avokadikvadik'>https://t.me/avokadikvadik</a>
+        есть бага, нужно выделить несколько и нажать ACTIVATE/AS DONE и оно у меня не обновляет нормально (нужно обновить страницу), не пойму почему так буду рад если расскажете в чем ошибка <a href='https://t.me/avokadikvadik'>https://t.me/avokadikvadik</a>
       </div>
       <Container>
         <div>Count: {store.todos.length}</div>
